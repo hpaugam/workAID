@@ -1,5 +1,5 @@
 # workAID
-Groupe de travail de l'équipe AID, laboratoire LAMIA, Université des Antilles
+## Groupe de travail de l'équipe AID, laboratoire LAMIA, Université des Antilles
 
 ### Réunions Automne 2016
 13 octobre ----- Présentation du projet de Master "PhysMRI" lié à l'arrivée prochaine du cyclotron : quels besoins en traitement d'images ? -- Sarra Gaspard  
