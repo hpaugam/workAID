@@ -10,3 +10,4 @@
 
 ### Réunions Hiver 2017
 
+11 janvier ----- Algorithme LVox : problème de l'estimation des données manquantes. -- Enguerran Grandchamp
