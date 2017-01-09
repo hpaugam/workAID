@@ -2,7 +2,7 @@
 ## Groupe de travail de l'équipe AID, laboratoire LAMIA, Université des Antilles
 
 ### Réunions Automne 2016
-13 octobre ----- Présentation du projet de Master "PhysMRI" lié à l'arrivée prochaine du cyclotron : quels besoins en traitement d'images ? -- Sarra Gaspard  
+13 octobre ----- Présentation du projet de Master "PhysMRI" lié à l'arrivée prochaine du cyclotron : quels besoins en traitement d'images ? -- Sarra Gaspard, invitée par Suzy Gaucher-Cazalis
 
 10 novembre ----- Fondements des réseaux de neurones artificiels : origines, principes, modèles classiques de réseaux. -- Hélène Paugam-Moisy   [fichier RezNeurArtif.pdf]
 
