@@ -12,4 +12,4 @@
 
 11 janvier ----- Algorithme LVox : problème de l'estimation des données manquantes. -- Enguerran Grandchamp
 
-26 janvier ----- Traitement d'images : applications et techniques usuelles [partie 2]. -- Vincent Pagé
+27 janvier ----- Traitement d'images : applications et techniques usuelles [partie 2]. -- Vincent Pagé
