@@ -10,6 +10,6 @@
 
 ### Réunions Hiver 2017
 
-11 janvier ----- Algorithme LVox : problème de l'estimation des données manquantes. -- Enguerran Grandchamp
+11 janvier ----- Algorithme LVox : problème de l'estimation des données manquantes. -- Enguerran Grandchamp    [fichier LVOX_AID.pdf]
 
 27 janvier ----- Traitement d'images : applications et techniques usuelles [partie 2]. -- Vincent Pagé
