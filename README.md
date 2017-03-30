@@ -14,3 +14,5 @@
 
 27 janvier ----- Traitement d'images : applications et techniques usuelles [partie 2]. -- Vincent Pagé    [fichier TR-Images_AID.pdf]
 
+3 avril ----- Calculer avec des neurones temporels [partie 1] : aspects theoriques. --  Hélène Paugam-Moisy   [fichier SpikNeu.pdf]
+
