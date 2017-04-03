@@ -1,4 +1,5 @@
 # workAID
+
 ## Groupe de travail de l'équipe AID, laboratoire LAMIA, Université des Antilles
 
 ### Réunions Automne 2016
@@ -16,3 +17,14 @@
 
 3 avril ----- Calculer avec des neurones temporels [partie 1] : aspects theoriques. --  Hélène Paugam-Moisy   [fichier SpikNeu.pdf]
 
+## Slides des séminaires LAMIA présentés par des membres de l'équipe AID
+
+### Année 2016
+
+6 janvier 2016 ----- De nouveaux paradigmes pour les réseaux de neurones : Deep Learning et Reservoir Computing. -- Hélène Paugam-Moisy   [fichier DeepRez_janv16.pdf]
+
+13 octobre 2016 ----- Des r ́eseaux de neurones sous toutes leurs formes. -- Hélène Paugam-Moisy   [fichier semin-LAMIA_oct16.pdf]
+
+10 novembre 2016 ----- Revue de contributions à la caractérisation de la graphomotricité et applications. -- Céline REMI    [fichier .pdf]
+
+1er decembre 2016 ----- Une chaine de traitement pour l'extraction et la caractérisation de plantes dans les images numériques. -- Jimmy NAGAU    [fichier .pdf]
