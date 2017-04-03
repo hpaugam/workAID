@@ -15,7 +15,11 @@
 
 27 janvier ----- Traitement d'images : applications et techniques usuelles [partie 2]. -- Vincent Pagé    [fichier TR-Images_AID.pdf]
 
+### Réunions Printemps 2017
+
 3 avril ----- Calculer avec des neurones temporels [partie 1] : aspects theoriques. --  Hélène Paugam-Moisy   [fichier SpikNeu.pdf]
+
+??? avril ----- Calculer avec des neurones temporels [partie 2] : aspects pratiques, notion de polychronisation. --  Hélène Paugam-Moisy   [fichier .pdf]
 
 ## Slides des séminaires LAMIA présentés par des membres de l'équipe AID
 
