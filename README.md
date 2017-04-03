@@ -27,7 +27,7 @@
 
 6 janvier 2016 ----- De nouveaux paradigmes pour les réseaux de neurones : Deep Learning et Reservoir Computing. -- Hélène Paugam-Moisy   [fichier DeepRez_janv16.pdf]
 
-13 octobre 2016 ----- Des r ́eseaux de neurones sous toutes leurs formes. -- Hélène Paugam-Moisy   [fichier semin-LAMIA_oct16.pdf]
+13 octobre 2016 ----- Des réseaux de neurones sous toutes leurs formes. -- Hélène Paugam-Moisy   [fichier semin-LAMIA_oct16.pdf]
 
 10 novembre 2016 ----- Revue de contributions à la caractérisation de la graphomotricité et applications. -- Céline REMI    [fichier .pdf]
 
