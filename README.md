@@ -21,7 +21,7 @@
 
 10 avril ----- Calculer avec des neurones temporels [partie 2] : aspects pratiques, notion de polychronisation. --  Hélène Paugam-Moisy   [fichiers DelayLearning.pdf et Polychronization.pdf]
 
-24 avril ----- Calculer avec des neurones temporels [partie 3] : applications a la modelisation de processus cognitifs. --  Hélène Paugam-Moisy   [fichiers ...........pdf]
+24 avril ----- Calculer avec des neurones temporels [partie 3] : applications a la modelisation de processus cognitifs. --  Hélène Paugam-Moisy   [fichiers Sakad-Oculr.pdf et SpikeAnts.pdf]
 
 ## Slides des séminaires LAMIA présentés par des membres de l'équipe AID
 
