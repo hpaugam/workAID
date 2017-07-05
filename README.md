@@ -17,11 +17,22 @@
 
 ### Réunions Printemps 2017
 
-3 avril ----- Calculer avec des neurones temporels [partie 1] : aspects theoriques. --  Hélène Paugam-Moisy   [fichier SpikNeu.pdf]
+3 avril ----- Calculer avec des neurones temporels [partie 1] : aspects théoriques. --  Hélène Paugam-Moisy   [fichier SpikNeu.pdf]
 
 10 avril ----- Calculer avec des neurones temporels [partie 2] : aspects pratiques, notion de polychronisation. --  Hélène Paugam-Moisy   [fichiers DelayLearning.pdf et Polychronization.pdf]
 
-24 avril ----- Calculer avec des neurones temporels [partie 3] : applications a la modelisation de processus cognitifs. --  Hélène Paugam-Moisy   [fichiers Sakad-Oculr.pdf et SpikeAnts.pdf]
+24 avril ----- Calculer avec des neurones temporels [partie 3] : applications à la modélisation de processus cognitifs. --  Hélène Paugam-Moisy   [fichiers Sakad-Oculr.pdf et SpikeAnts.pdf]
+
+
+### Réunions Eté 2017
+
+2 juin ----- Réflexion / discussion sur le rôle des délais et des groupes polychrones dans un "Spiking Neuron Network" (SNN). -- collectif
+
+29 juin ----- Réflexion / discussion sur les groupes polychrones et le simulateur de Régis Martinez. -- Vincent Pagé + collectif
+[ lien vers le simulateur de Régis Martinez : https://gitlab.com/redgis/PhD-SNN-Simulator ]
+
+6 juillet ----- Présentation de l'architecture du code du simulateur de Régis Martinez. -- Vincent Pagé
+
 
 ## Slides des séminaires LAMIA présentés par des membres de l'équipe AID
 
