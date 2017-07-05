@@ -29,7 +29,7 @@
 2 juin ----- Réflexion / discussion sur le rôle des délais et des groupes polychrones dans un "Spiking Neuron Network" (SNN). -- collectif
 
 29 juin ----- Réflexion / discussion sur les groupes polychrones et le simulateur de Régis Martinez. -- Vincent Pagé + collectif
-[ lien vers le simulateur de Régis Martinez : https://gitlab.com/redgis/PhD-SNN-Simulator ]
+     [ lien vers le simulateur de Régis Martinez : https://gitlab.com/redgis/PhD-SNN-Simulator ]
 
 6 juillet ----- Présentation de l'architecture du code du simulateur de Régis Martinez. -- Vincent Pagé
 
